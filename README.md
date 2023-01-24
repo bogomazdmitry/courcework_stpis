@@ -4,7 +4,7 @@
 - docker
 - angular - web
 - qt - desltop
-- userver - если возможно
+- userver - если возможно ([fork](https://github.com/userver-framework/service_template))
 - dotnet -  auth + все, если не userver
 
 ## Что есть:
